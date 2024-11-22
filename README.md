@@ -3,7 +3,7 @@
 
 > 一个Msfvenom的图形化指令生成工具
 
-<img src="https://github.com/user-attachments/assets/978caaeb-6675-4c40-be49-0a792bd94026" width="50%">
+<img src="https://github.com/user-attachments/assets/09bfe0e1-41c6-4949-850e-6bd944587dd1" width="50%">
 
 为了更快速的使用msfvenom，同时也为了更方便初学者使用msfvenom生成远控程序
 
